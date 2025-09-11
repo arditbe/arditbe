@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Amaro Than 👋
 
-<!--
-**arditbe/arditbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Open Source AI Explorer | Backend Architect | Polyglot Developer**
 
-Here are some ideas to get you started:
+I design intelligent systems, build scalable backend architectures, and create open-source tools that push the boundaries of AI. From training datasets to robust applications, I turn ideas into clean, efficient, and futuristic code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌌 Areas of Expertise
+
+- **AI & Data Science:** Machine Learning, Deep Learning, NLP, Computer Vision, Data Training  
+- **Backend Systems:** Node.js, Python, PHP, Java, SQL, Ruby  
+- **Mobile & Frontend:** Swift, React Native, TypeScript  
+- **Dev Tools & Practices:** Docker, Git, CI/CD, Linux, APIs, Cloud Deployments  
+
+---
+
+## 🚀 Open Source Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| [Data Trainer](https://github.com/yourusername/data-trainer) | Python, TensorFlow | Open-source data preprocessing & training pipelines |
+| [SwiftAI](https://github.com/yourusername/swiftai) | Swift, CoreML | AI models for iOS applications |
+| [Backend Tools](https://github.com/yourusername/backend-tools) | PHP, Java, Node.js | Utilities for building robust backend systems |
+
+---
+
+## 🛠 Tech Stack
+
