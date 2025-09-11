@@ -1,4 +1,4 @@
-# Hi, I'm Amaro Than 👋
+# Hi, I'm Ardit
 
 **Open Source AI Explorer | Backend Architect | Polyglot Developer**
 
