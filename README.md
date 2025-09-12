@@ -3,7 +3,7 @@
   <img src="Frame 1.png" alt="AI Banner" width="700"/>
 </p>
 
-# Hi — Ardit Berisha
+#  Ardit Berisha
 
 **CTO @ amarothan.com • Co-founder (Old Tubify) • Open Source AI Explorer • Full-stack Developer**
 
