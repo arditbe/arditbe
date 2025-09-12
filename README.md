@@ -3,7 +3,7 @@
   <img src="Frame 1.png" alt="AI Banner" width="700"/>
 </p>
 
-# Hi, I'm Amaro Than 👋
+# Hi, Ardit Berisha
 
 **Open Source AI Explorer | Backend Architect | Polyglot Developer**
 
