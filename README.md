@@ -3,11 +3,13 @@
   <img src="Frame 1.png" alt="AI Banner" width="700"/>
 </p>
 
-#  Ardit Berisha
+# Ardit Berisha
+
+I’m not just a Software Engineer. While others sleep, I work on ideas that matter — turning vision into reality and building tech for everyone. With **Amaro Than** we’re creating community power; Roma will be different, and I’m proud we’re building that future. Design matters: it’s not just how it looks, it’s how it works. Think different.
 
 **CTO @ amarothan.com • Co-founder (Old Tubify) • Open Source AI Explorer • Full-stack Developer**
 
-I build intelligent systems, scalable backends, and practical ML tooling. I’ve spent ~10 years building random stuff you can find in my repositories — from production services to training and fine-tuning models. I research and experiment with AI, and I enjoy training models from scratch (like teaching a kid) as well as fine-tuning them for production tasks.
+I build intelligent systems, scalable backends, and practical ML tooling. I’ve spent ~10 years building production services, training and fine-tuning models, and shipping apps. I research and experiment with AI, from training models from scratch to fine-tuning for production.
 
 ---
 
@@ -15,8 +17,8 @@ I build intelligent systems, scalable backends, and practical ML tooling. I’ve
 
 - **AI & Research:** model training, fine-tuning, dataset curation, NLP, applied research  
 - **Full-stack Development:** frontend + backend systems, production APIs, performance & scaling  
-- **Frontend & Apps:** React, native app development, AJAX integration  
-- **Data & Ops:** databases (SQL), deployment, CI/CD, Docker, Linux
+- **Frontend & Apps:** React, native apps, responsive UI, AJAX integration  
+- **Data & Ops:** SQL databases, deployment, CI/CD, Docker, Linux, monitoring
 
 ---
 
@@ -25,46 +27,40 @@ I build intelligent systems, scalable backends, and practical ML tooling. I’ve
 - CTO at **amarothan.com** — building infrastructure and AI products.  
 - Co-founder of **Old Tubify** — startup experience across product & ops.  
 - ~**10 years** coding experience — many public repos and experimental projects.  
-- Hands-on **AI researcher**: I train, fine-tune, debug models and build training pipelines.
+- Hands-on **AI researcher**: training, fine-tuning, debugging models and building pipelines.
 
 ---
 
 ## 🛠 Tech Snapshot
 
-- Model work: dataset engineering, tokenization, training loops, fine-tuning pipelines  
-- Frontend & apps: React, native mobile patterns, responsive UI, AJAX-driven flows  
-- Backend: scalable APIs, SQL databases, background workers, logging & monitoring  
-- Infrastructure: Docker, Linux, CI/CD, deployment automation
+- Dataset engineering, tokenization, training loops, fine-tuning pipelines  
+- React, native mobile patterns, responsive UI, AJAX flows  
+- Scalable APIs, SQL databases, background workers, logging & monitoring  
+- Docker, Linux, CI/CD, deployment automation
 
 ---
 
 ## 🧭 How I work
 
 - Prototype fast, iterate often — experiments first, production second.  
-- Prefer simple, auditable systems that scale: readable code, automated tests, monitoring.  
-- Data-driven decisions: evaluate models and services with real metrics and small AB tests.  
-- Teach & learn: I document training recipes and treat model training like teaching a human — repeat, correct, reward.
+- Prefer simple, auditable systems: readable code, tests, observability.  
+- Data-driven: evaluate with metrics and small A/B tests.  
+- Teach & document: training recipes, reproducible pipelines, continuous learning.
 
 ---
 
 ## 📁 Projects (selected)
 
-> *Project names only — see my repositories for details.*
+- **Facemash AI Backend** — scalable social backend with AI features  
+- **Data Trainer** — pipelines & tooling for dataset preprocessing and training  
+- **SwiftAI** — research and mobile model experiments  
+- **Backend Tools** — utilities & microservices for production backends
 
-- Facemash AI Backend — scalable social backend with AI features  
-- Data Trainer — pipelines & tooling for dataset preprocessing and training  
-- SwiftAI — research and mobile model experiments  
-- Backend Tools — utilities & microservices for production backends
-
-*(Links removed — check my GitHub / repos for code samples.)*
+*(See my GitHub for full repos and code samples.)*
 
 ---
 
 ## 📬 Contact
 
 - CTO @ amarothan.com  
-- Open to collaborations, research partnerships, consulting on ML systems and scalable architecture.
-
----
-
-
+- Open to collaborations, research partnerships, and consulting on ML systems and scalable architecture.
