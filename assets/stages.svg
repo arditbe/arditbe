@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#020617"/><stop offset=".55" stop-color="#061a5c"/><stop offset="1" stop-color="#0b3bb0"/></linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#00f0ff"/><stop offset=".33" stop-color="#4f7bff"/><stop offset=".66" stop-color="#ff3df2"/><stop offset="1" stop-color="#00f0ff"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1 0" dur="5s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="n2" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff3df2"/></linearGradient>
+<linearGradient id="tc" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff" stop-opacity="0"/><stop offset=".85" stop-color="#00f0ff"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="tm" x1="0" x2="1"><stop offset="0" stop-color="#ff3df2" stop-opacity="0"/><stop offset=".85" stop-color="#ff3df2"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="ty" x1="0" x2="1"><stop offset="0" stop-color="#ffb800" stop-opacity="0"/><stop offset=".85" stop-color="#ffb800"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<filter id="g" x="-50%" y="-300%" width="200%" height="700%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="sg" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="c"><rect width="1200" height="230" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="230" fill="url(#bg)"/>
+<line x1="0" y1="0" x2="0" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="40" y1="0" x2="40" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="80" y1="0" x2="80" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="120" y1="0" x2="120" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="160" y1="0" x2="160" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="200" y1="0" x2="200" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="240" y1="0" x2="240" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="280" y1="0" x2="280" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="320" y1="0" x2="320" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="360" y1="0" x2="360" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="400" y1="0" x2="400" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="440" y1="0" x2="440" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="480" y1="0" x2="480" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="520" y1="0" x2="520" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="560" y1="0" x2="560" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="600" y1="0" x2="600" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="640" y1="0" x2="640" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="680" y1="0" x2="680" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="720" y1="0" x2="720" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="760" y1="0" x2="760" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="800" y1="0" x2="800" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="840" y1="0" x2="840" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="880" y1="0" x2="880" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="920" y1="0" x2="920" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="960" y1="0" x2="960" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="1000" y1="0" x2="1000" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="1040" y1="0" x2="1040" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="1080" y1="0" x2="1080" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="1120" y1="0" x2="1120" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="1160" y1="0" x2="1160" y2="230" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="0" x2="1200" y2="0" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="40" x2="1200" y2="40" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="80" x2="1200" y2="80" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="120" x2="1200" y2="120" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="160" x2="1200" y2="160" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="200" x2="1200" y2="200" stroke="#2f6bff" stroke-opacity="0.16"/>
+<rect x="30" y="34" width="262" height="162" rx="14" fill="#030b2e" fill-opacity=".85" stroke="#2448b8" stroke-width="1.5"/>
+<g filter="url(#g)"><rect x="-110" y="-1.5" width="110" height="3" rx="1.5" fill="url(#tc)"><animateMotion dur="6s" begin="-0.0s" repeatCount="indefinite" rotate="auto" path="M30 34 H292 V196 H30 Z"/></rect></g>
+<text x="54" y="82" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="30" font-weight="700" fill="url(#neon)">01</text>
+<text x="54" y="124" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="900" letter-spacing="1" fill="#fff">PRE-TRAINING</text>
+<text x="54" y="154" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" fill="#a8dcff">20M → 32B parameters</text>
+<text x="305" y="122" text-anchor="middle" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="22" fill="#00f0ff">›<animate attributeName="opacity" values=".2;1;.2" dur="1.5s" begin="0.0s" repeatCount="indefinite"/></text>
+<rect x="319" y="34" width="262" height="162" rx="14" fill="#030b2e" fill-opacity=".85" stroke="#2448b8" stroke-width="1.5"/>
+<g filter="url(#g)"><rect x="-110" y="-1.5" width="110" height="3" rx="1.5" fill="url(#tm)"><animateMotion dur="6s" begin="-1.5s" repeatCount="indefinite" rotate="auto" path="M319 34 H581 V196 H319 Z"/></rect></g>
+<text x="343" y="82" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="30" font-weight="700" fill="url(#neon)">02</text>
+<text x="343" y="124" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="900" letter-spacing="1" fill="#fff">POST-TRAINING</text>
+<text x="343" y="154" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" fill="#a8dcff">where a model becomes</text>
+<text x="343" y="174" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" fill="#a8dcff">usable</text>
+<text x="594" y="122" text-anchor="middle" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="22" fill="#00f0ff">›<animate attributeName="opacity" values=".2;1;.2" dur="1.5s" begin="0.3s" repeatCount="indefinite"/></text>
+<rect x="608" y="34" width="262" height="162" rx="14" fill="#030b2e" fill-opacity=".85" stroke="#2448b8" stroke-width="1.5"/>
+<g filter="url(#g)"><rect x="-110" y="-1.5" width="110" height="3" rx="1.5" fill="url(#ty)"><animateMotion dur="6s" begin="-3.0s" repeatCount="indefinite" rotate="auto" path="M608 34 H870 V196 H608 Z"/></rect></g>
+<text x="632" y="82" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="30" font-weight="700" fill="url(#neon)">03</text>
+<text x="632" y="124" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="900" letter-spacing="1" fill="#fff">DATA</text>
+<text x="632" y="154" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" fill="#a8dcff">the stage everything else</text>
+<text x="632" y="174" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" fill="#a8dcff">inherits</text>
+<text x="883" y="122" text-anchor="middle" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="22" fill="#00f0ff">›<animate attributeName="opacity" values=".2;1;.2" dur="1.5s" begin="0.6s" repeatCount="indefinite"/></text>
+<rect x="897" y="34" width="262" height="162" rx="14" fill="#030b2e" fill-opacity=".85" stroke="#2448b8" stroke-width="1.5"/>
+<g filter="url(#g)"><rect x="-110" y="-1.5" width="110" height="3" rx="1.5" fill="url(#tc)"><animateMotion dur="6s" begin="-4.5s" repeatCount="indefinite" rotate="auto" path="M897 34 H1159 V196 H897 Z"/></rect></g>
+<text x="921" y="82" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="30" font-weight="700" fill="url(#neon)">04</text>
+<text x="921" y="124" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="900" letter-spacing="1" fill="#fff">BAD HARDWARE</text>
+<text x="921" y="154" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" fill="#a8dcff">phones, low-end PCs, plain</text>
+<text x="921" y="174" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="14" fill="#a8dcff">CPUs</text>
+<rect x="1" y="1" width="1198" height="228" rx="18" fill="none" stroke="url(#neon)" stroke-width="1.5"/></g></svg>

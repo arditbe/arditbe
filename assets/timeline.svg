@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#020617"/><stop offset=".55" stop-color="#061a5c"/><stop offset="1" stop-color="#0b3bb0"/></linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#00f0ff"/><stop offset=".33" stop-color="#4f7bff"/><stop offset=".66" stop-color="#ff3df2"/><stop offset="1" stop-color="#00f0ff"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1 0" dur="5s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="n2" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff3df2"/></linearGradient>
+<linearGradient id="tc" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff" stop-opacity="0"/><stop offset=".85" stop-color="#00f0ff"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="tm" x1="0" x2="1"><stop offset="0" stop-color="#ff3df2" stop-opacity="0"/><stop offset=".85" stop-color="#ff3df2"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<linearGradient id="ty" x1="0" x2="1"><stop offset="0" stop-color="#ffb800" stop-opacity="0"/><stop offset=".85" stop-color="#ffb800"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+<filter id="g" x="-50%" y="-300%" width="200%" height="700%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="sg" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="c"><rect width="1200" height="250" rx="18"/></clipPath></defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="250" fill="url(#bg)"/>
+<line x1="0" y1="0" x2="0" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="40" y1="0" x2="40" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="80" y1="0" x2="80" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="120" y1="0" x2="120" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="160" y1="0" x2="160" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="200" y1="0" x2="200" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="240" y1="0" x2="240" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="280" y1="0" x2="280" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="320" y1="0" x2="320" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="360" y1="0" x2="360" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="400" y1="0" x2="400" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="440" y1="0" x2="440" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="480" y1="0" x2="480" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="520" y1="0" x2="520" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="560" y1="0" x2="560" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="600" y1="0" x2="600" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="640" y1="0" x2="640" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="680" y1="0" x2="680" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="720" y1="0" x2="720" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="760" y1="0" x2="760" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="800" y1="0" x2="800" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="840" y1="0" x2="840" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="880" y1="0" x2="880" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="920" y1="0" x2="920" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="960" y1="0" x2="960" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="1000" y1="0" x2="1000" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="1040" y1="0" x2="1040" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="1080" y1="0" x2="1080" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="1120" y1="0" x2="1120" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="1160" y1="0" x2="1160" y2="250" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="0" x2="1200" y2="0" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="40" x2="1200" y2="40" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="80" x2="1200" y2="80" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="120" x2="1200" y2="120" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="160" x2="1200" y2="160" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="200" x2="1200" y2="200" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="0" y1="240" x2="1200" y2="240" stroke="#2f6bff" stroke-opacity="0.16"/>
+<line x1="70" y1="95" x2="1130" y2="95" stroke="#1e3fa8" stroke-width="3"/>
+<line x1="70" y1="95" x2="70" y2="95" stroke="url(#n2)" stroke-width="3" filter="url(#g)"><animate attributeName="x2" values="70;1130;1130" keyTimes="0;.7;1" dur="7s" repeatCount="indefinite"/></line>
+<circle cx="130" cy="95" r="10" fill="#030b2e" stroke="#00f0ff" stroke-width="2"/>
+<circle cx="130" cy="95" r="5.5" fill="#ff3df2" filter="url(#g)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.040;0.060;1" dur="7s" repeatCount="indefinite"/></circle>
+<text x="130" y="67" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" letter-spacing="2" fill="#00f0ff">AGE 10</text>
+<text x="130" y="143" text-anchor="middle" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="800" fill="#fff">BAT files</text>
+<text x="130" y="169" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#9cb8ee">&amp; an antivirus for my</text>
+<text x="130" y="187" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#9cb8ee">own viruses</text>
+<circle cx="365" cy="95" r="10" fill="#030b2e" stroke="#00f0ff" stroke-width="2"/>
+<circle cx="365" cy="95" r="5.5" fill="#ff3df2" filter="url(#g)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.195;0.215;1" dur="7s" repeatCount="indefinite"/></circle>
+<text x="365" y="67" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" letter-spacing="2" fill="#00f0ff">14–15</text>
+<text x="365" y="143" text-anchor="middle" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="800" fill="#fff">Python</text>
+<text x="365" y="169" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#9cb8ee">then five more languages</text>
+<circle cx="600" cy="95" r="10" fill="#030b2e" stroke="#00f0ff" stroke-width="2"/>
+<circle cx="600" cy="95" r="5.5" fill="#ff3df2" filter="url(#g)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.350;0.370;1" dur="7s" repeatCount="indefinite"/></circle>
+<text x="600" y="67" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" letter-spacing="2" fill="#00f0ff">2020</text>
+<text x="600" y="143" text-anchor="middle" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="800" fill="#fff">Tubify</text>
+<text x="600" y="169" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#9cb8ee">my first platform</text>
+<circle cx="835" cy="95" r="10" fill="#030b2e" stroke="#00f0ff" stroke-width="2"/>
+<circle cx="835" cy="95" r="5.5" fill="#ff3df2" filter="url(#g)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.505;0.525;1" dur="7s" repeatCount="indefinite"/></circle>
+<text x="835" y="67" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" letter-spacing="2" fill="#00f0ff">2022</text>
+<text x="835" y="143" text-anchor="middle" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="800" fill="#fff">First model</text>
+<text x="835" y="169" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#9cb8ee">20M params · CTO</text>
+<circle cx="1070" cy="95" r="10" fill="#030b2e" stroke="#00f0ff" stroke-width="2"/>
+<circle cx="1070" cy="95" r="5.5" fill="#ff3df2" filter="url(#g)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.660;0.680;1" dur="7s" repeatCount="indefinite"/></circle>
+<text x="1070" y="67" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="15" letter-spacing="2" fill="#00f0ff">2026</text>
+<text x="1070" y="143" text-anchor="middle" font-family="-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="800" fill="#fff">Grow Labs</text>
+<text x="1070" y="169" text-anchor="middle" font-family="'SF Mono',Menlo,Consolas,'Courier New',monospace" font-size="13" fill="#9cb8ee">my own AI lab</text>
+<rect x="1" y="1" width="1198" height="248" rx="18" fill="none" stroke="url(#neon)" stroke-width="1.5"/></g></svg>
